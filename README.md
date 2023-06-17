@@ -1,4 +1,4 @@
-# Minecraft Education Index
+# Minecraft Education Index (Windows)
 These are all the current versions downloadable right now:
 
 Versions below 1.0.17 release 2017-05-22 (not found)
